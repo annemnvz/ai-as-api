@@ -7,3 +7,4 @@ tensorflow==2.6.0
 scikit-learn==1.0.2
 uvicorn==0.17.4
 protobuf==3.19.0
+fastapi
